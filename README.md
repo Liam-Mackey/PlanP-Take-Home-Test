@@ -50,3 +50,6 @@ This project is meant to be completed in two hours or less. Submitting it partia
 5. Modify the appointments serializer and tests. You should now be able to add a doctor when you create an appointment. You should add logic to check that a doctor does not have an existing appointment in the slot you are creating.
 
 For the purpose of this exercise, you can assume all appointments start on the hour, and only run for one hour.
+
+
+### Liams Appointments Branch
