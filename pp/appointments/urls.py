@@ -8,7 +8,7 @@ urlpatterns = [
         views.GetPostAppointments.as_view(),
         name="get_post_appointments"
     ),
-    path('api/v1/appointments/<int:pk>',
+    path('api/v1/appointments/<int:pk>/',
         views.GetDeleteUpdateAppointments.as_view(),
         name="get_delete_update_appointments"
     ),
